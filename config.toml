@@ -1,4 +1,4 @@
 baseURL = "https://ivodopiviz.github.io/"
 languageCode = "en-us"
-title = "ivodopiviz"
 theme = "ananke"
+title = "ivodopiviz"
