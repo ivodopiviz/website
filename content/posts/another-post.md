@@ -4,4 +4,4 @@ draft = true
 title = "Another post"
 
 +++
-
+This is another amazing post.
