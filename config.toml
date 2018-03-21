@@ -1,62 +1,45 @@
 baseURL = "https://ivodopiviz.github.io/"
-languageCode = "en-us"
-title = "ivodopiviz"
-theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
+disqusShortname = "username"
 googleAnalytics = ""
-
+languageCode = "en-us"
+theme = "minimal"
+title = "ivodopiviz"
+[[menu.icon]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/ivanvodopiviz/"
+weight = 4
+[[menu.icon]]
+name = "twitter"
+url = "https://twitter.com/ivodopiviz/"
+weight = 3
+[[menu.icon]]
+name = "github"
+url = "https://github.com/ivodopiviz/"
+weight = 2
+[[menu.icon]]
+name = "envelope-o"
+url = "mailto:ivanvodo@gmail.com"
+weight = 1
+[[menu.main]]
+name = "Projects"
+url = "/project/"
+weight = 3
+[[menu.main]]
+name = "Posts"
+url = "/post/"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["c++"]
-
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
-
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 2
-
-[[menu.main]]
-    url = "/project/"
-    name = "Projects"
-    weight = 3
-
-# Social icons to be shown on the right-hand side of the navigation bar
-# The "name" field should match the name of the icon to be used
-# The list of available icons can be found at http://fontawesome.io/icons/
-
-[[menu.icon]]
-    url = "mailto:ivanvodo@gmail.com"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://github.com/ivodopiviz/"
-    name = "github"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://twitter.com/ivodopiviz/"
-    name = "twitter"
-    weight = 3
-
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/ivanvodopiviz/"
-    name = "linkedin"
-    weight = 4
-
-#[[menu.icon]]
-#    url = "https://www.stackoverflow.com/username/"
-#    name = "stack-overflow"
-#    weight = 5
+accent = "red"
+author = "Calin Tataru"
+backgroundcolor = "white"
+description = "Personal blog theme powered by Hugo"
+font = "Raleway"
+githubusername = "#"
+highlight = true
+highlightlanguages = ["c++"]
+highlightstyle = "solarized-dark"
+showborder = true
