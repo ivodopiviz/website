@@ -1,9 +1,9 @@
 baseURL = "https://ivodopiviz.github.io/"
-disqusShortname = "username"
+disqusShortname = "ivodopiviz"
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "minimal"
-title = "ivodopiviz"
+title = "Iván Makes Games"
 [[menu.icon]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/ivanvodopiviz/"
