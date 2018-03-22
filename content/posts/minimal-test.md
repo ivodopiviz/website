@@ -1,6 +1,5 @@
 +++
 date = "2018-03-22T20:17:53+00:00"
-draft = true
 tags = []
 title = "Minimal Test"
 
