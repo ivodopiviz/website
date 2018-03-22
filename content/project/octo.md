@@ -1,10 +1,10 @@
 +++
 date = "2018-03-22T22:50:12+00:00"
-description = ""
+description = "Simple Chip-8 emulator using SDL2"
 draft = true
-repo = ""
-tags = []
+repo = "octo"
+tags = ["2d", "c++", "emulation"]
 title = "Octo"
-weight = 0
+weight = ""
 
 +++
