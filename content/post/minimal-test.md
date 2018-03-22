@@ -1,5 +1,5 @@
 +++
-date = "2018-03-22T20:17:53+00:00"
+date = "2018-03-22T20:17:53Z"
 tags = []
 title = "Minimal Test"
 

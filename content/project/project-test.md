@@ -1,5 +1,5 @@
 +++
-date = "2018-03-22T20:18:44+00:00"
+date = "2018-03-22T20:18:44Z"
 description = "This is a project"
 repo = ""
 tags = []
