@@ -1,10 +1,10 @@
 +++
 date = "2018-03-22T20:18:44Z"
-description = "This is a project"
-repo = ""
-tags = []
-title = "Project test"
-weight = 0
+description = "Bugfixes and enhancements for Godot Engine"
+repo = "https://github.com/ivodopiviz/godot"
+tags = ["c++", "3d", "opensource"]
+title = "Godot"
+weight = ""
 
 +++
-This is a test project to see how they look.
+I've been doing quite a bit of general bugfixing in Godot lately. I've worked with the engine in one way or another for quite a few years now and contributing to open source projects is always very rewarding.
