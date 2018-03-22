@@ -1,7 +1,7 @@
 +++
 date = "2018-03-22T20:18:44Z"
 description = "Bugfixes and enhancements for Godot Engine"
-repo = "https://github.com/ivodopiviz/godot"
+repo = "godot"
 tags = ["c++", "3d", "opensource"]
 title = "Godot"
 weight = ""
