@@ -34,11 +34,11 @@ url = "/"
 weight = 1
 [params]
 accent = "red"
-author = "Calin Tataru"
+author = "Ivan Vodopiviz"
 backgroundcolor = "white"
 description = "Personal blog theme powered by Hugo"
 font = "Raleway"
-githubusername = "#"
+githubusername = "ivodopiviz"
 highlight = true
 highlightlanguages = ["c++"]
 highlightstyle = "solarized-dark"
