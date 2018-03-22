@@ -7,3 +7,4 @@ title = "Octo"
 weight = ""
 
 +++
+I wrote Octo to teach myself emulator programming. I'm not very sure it was very successful really, it's and extremely simple system and very, very easy to emulate.
