@@ -4,6 +4,6 @@ description = "Simple Perlin-based Voxel terrain generation example, released un
 repo = "https://github.com/ivodopiviz/UnityVoxelExample"
 tags = ["unity", "voxel"]
 title = "Unity Voxel Example"
-weight = ""
+weight = 3
 
 +++
