@@ -14,7 +14,7 @@ type = "post"
 
 This was an interesting augmented reality project that, unfortunately, was never released. The basic idea was that cable technicians usually have trouble identifying what is what when dealing with crowded equipment and this project was aimed to provide a clean and advanced solution.
 
-Several augmented reality "data layers" would give the technician information about the device itself, about each customer and real time data of the device performance.
+Several augmented reality "data layers" would give the technician information about the device itself, about each customer and real time data of the device performance and issues.
 
 The project itself was split in three parts:
 
