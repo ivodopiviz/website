@@ -14,7 +14,7 @@ This was a very interesting project for rehabilitation of patients with neuro-mo
 
 The main challenge was creating a system that would give accurate detection but at the same time allow to be configured lenient enough to account for each patient capabilities.
 
-The system included user account suppor and full activity logging, intended to be shared with the medical staff.
+The system included user account support and full activity logging, intended to be shared with the medical staff.
 
 #### Technologies:
 
