@@ -1,11 +1,11 @@
 ---
 pages:
+- portfolio/ar-viewer.md
 - portfolio/rehab.md
 - portfolio/atmosphir.md
 - portfolio/mazes-of-fate--ds-.md
 - portfolio/mazes-of-fate--gba-.md
 - portfolio/aaa--heroes-del-ring.md
-- portfolio/ar-viewer.md
 hide_body: false
 is_partial: false
 fields:

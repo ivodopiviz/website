@@ -1,6 +1,6 @@
 +++
 date = "2018-05-08T15:48:31+02:00"
-tags = ["unity", "ar", "augmented reality"]
+tags = ["unity", "ar", "augmented reality", "mobile"]
 title = "AR Viewer"
 type = "post"
 
