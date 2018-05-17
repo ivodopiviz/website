@@ -1,6 +1,8 @@
 +++
 date = "2018-04-03T20:15:48+02:00"
+tags = ["c++", "lua", "ds", "console"]
 title = "Return to Mysterious Island"
+type = "post"
 
 +++
 ![](/uploads/2018/05/17/new2.jpg)
