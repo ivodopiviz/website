@@ -1,5 +1,5 @@
 +++
-date = "2018-05-08T20:12:14+02:00"
+date = "2018-05-01T20:12:14+02:00"
 tags = ["c", "lua", "console", "gba"]
 title = "Mazes of Fate (GBA)"
 
