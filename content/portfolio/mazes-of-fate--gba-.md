@@ -10,7 +10,7 @@ title = "Mazes of Fate (GBA)"
 
 #### Description:
 
-My first project in the videogame industry. I started off as a QA tester and ended up doing plenty of production work and some light scripting.
+My first project in the videogame industry. An old school first person RPG for the Nintendo Gameboy Advance. I believe it was one of the first latin american games released on a Nintendo console. I started off as a QA tester and ended up doing plenty of production work and some light scripting.
 
 #### Technologies:
 
