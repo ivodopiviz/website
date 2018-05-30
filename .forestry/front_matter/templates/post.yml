@@ -23,6 +23,7 @@ fields:
   hidden: false
   default: true
 pages:
+- portfolio/adventure-time--romance-on-ice.md
 - portfolio/silence.md
 - portfolio/still-life.md
 - portfolio/return-to-mysterious-island.md
