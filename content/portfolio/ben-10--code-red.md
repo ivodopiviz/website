@@ -8,7 +8,7 @@ title = "Ben 10: Code Red"
 
 #### Description:
 
-Pretty standard web tower defense game developed for Cartoon Network latin america. Like most of CN's web games, we had fairly strict size and performance limitations to hit.
+Pretty standard web tower defense game developed for Cartoon Network latin america. Like most of CN's web games, we had fairly strict size and performance limitations to hit. [You can still play it online](http://kids.poki.com/en/g/ben-10-omniverse-code-red).
 
 #### Technologies:
 
