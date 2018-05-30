@@ -23,6 +23,7 @@ fields:
   hidden: false
   default: true
 pages:
+- portfolio/silence.md
 - portfolio/still-life.md
 - portfolio/return-to-mysterious-island.md
 - portfolio/atmosphir.md
