@@ -18,6 +18,6 @@ The system included user account support and full activity logging, intended to 
 
 #### Technologies:
 
-Unity 5.6
+Unity
 
 Kinect
