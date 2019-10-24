@@ -19,10 +19,12 @@ The project itself was split in three parts:
 
 * The "viewer" that you can see in the screenshot above.
 * A desktop client to be used by headquarters personnel, to guide and assist the on-site technician. The desktop app would get a pseudo real time video feed of what the technician could see and it would be able to "ping" different parts of the device to drive the technician's attention.
-* A nodeJS server to tie all this together and to act as data aggregator to send to the viewer and desktop apps. It would also store incidence reports.
+* A node.js server to tie all this together and to act as data aggregator to send to the viewer and desktop apps. It would also store incidence reports.
 
 #### Technology:
 
-Unity 5
+Unity
 
 Vuforia
+
+node.js

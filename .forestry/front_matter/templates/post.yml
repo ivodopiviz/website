@@ -1,6 +1,6 @@
 ---
+label: post
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -23,14 +23,16 @@ fields:
   hidden: false
   default: true
 pages:
-- portfolio/ben-10--code-red.md
-- portfolio/adventure-time--romance-on-ice.md
-- portfolio/silence.md
-- portfolio/still-life.md
-- portfolio/return-to-mysterious-island.md
-- portfolio/atmosphir.md
-- portfolio/mazes-of-fate--ds-.md
-- portfolio/ar-viewer.md
-- portfolio/rehab.md
-- portfolio/mazes-of-fate--gba-.md
-- portfolio/aaa--heroes-del-ring.md
+- content/portfolio/aaa--heroes-del-ring.md
+- content/portfolio/mazes-of-fate--ds-.md
+- content/portfolio/still-life.md
+- content/portfolio/ben-10--code-red.md
+- content/portfolio/silence.md
+- content/portfolio/ar-viewer.md
+- content/portfolio/rehab.md
+- content/portfolio/atmosphir.md
+- content/post/welcome.md
+- content/portfolio/return-to-mysterious-island.md
+- content/post/some-website-updates.md
+- content/portfolio/mazes-of-fate--gba-.md
+- content/portfolio/adventure-time--romance-on-ice.md

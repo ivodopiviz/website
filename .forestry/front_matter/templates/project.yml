@@ -1,6 +1,6 @@
 ---
+label: project
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -32,3 +32,7 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/project/octo.md
+- content/project/godot.md
+- content/project/unity-voxel-example.md
