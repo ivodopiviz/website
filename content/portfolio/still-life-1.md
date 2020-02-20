@@ -5,16 +5,18 @@ tags = ["c#", "unity", "pc", "steamworks"]
 title = "Waiting for Horus"
 
 +++
-![](/uploads/2018/05/17/PCK_STLLF.002.jpg)
+![](/uploads/2020/02/20/wfh.png)
 
 #### Description:
 
-Port of the PC graphical adventure, this time for the Sony PSP console. This project was part of an incubator program Sony Computer Entertainment started in Latin America. The publisher liked it very much, but unfortunately cancelled the project due to lack of funds.
+I'm currently working on updating this game to more modern technologies. Originally made with Unity 4.5 and RPC networking, and I'm currently migrating it to modern versions and reworking the netcode to use Steamworks P2P and server systems.
 
-I wasn't really involved in the gameplay itself, I spent most of my time getting out small in-house engine running on the PSP and integrating some of the SDK libraries to save time.
+There's still a lot of work to be done to adapt it to newer rendering technologies.
 
 #### Technology:
 
-C++
+C#
 
-Lua
+Unity
+
+Steamworks
