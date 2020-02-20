@@ -33,6 +33,6 @@ fields:
   hidden: false
   default: true
 pages:
-- content/project/octo.md
 - content/project/godot.md
+- content/project/octo.md
 - content/project/unity-voxel-example.md

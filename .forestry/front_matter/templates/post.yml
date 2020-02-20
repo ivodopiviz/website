@@ -24,15 +24,16 @@ fields:
   default: true
 pages:
 - content/portfolio/aaa--heroes-del-ring.md
-- content/portfolio/mazes-of-fate--ds-.md
-- content/portfolio/still-life.md
-- content/portfolio/ben-10--code-red.md
-- content/portfolio/silence.md
-- content/portfolio/ar-viewer.md
-- content/portfolio/rehab.md
-- content/portfolio/atmosphir.md
-- content/post/welcome.md
-- content/portfolio/return-to-mysterious-island.md
-- content/post/some-website-updates.md
-- content/portfolio/mazes-of-fate--gba-.md
 - content/portfolio/adventure-time--romance-on-ice.md
+- content/portfolio/ar-viewer.md
+- content/portfolio/atmosphir.md
+- content/portfolio/ben-10--code-red.md
+- content/portfolio/mazes-of-fate--ds-.md
+- content/portfolio/mazes-of-fate--gba-.md
+- content/portfolio/rehab.md
+- content/portfolio/return-to-mysterious-island.md
+- content/portfolio/silence.md
+- content/portfolio/still-life-1.md
+- content/portfolio/still-life.md
+- content/post/some-website-updates.md
+- content/post/welcome.md
