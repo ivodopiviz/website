@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lua on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/lua/</link>
+    <description>Recent content in lua on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Apr 2018 20:15:48 +0200</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/tags/lua/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Still Life</title>
+      <link>https://ivodopiviz.github.io/portfolio/still-life/</link>
+      <pubDate>Fri, 06 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/still-life/</guid>
+      <description>Description: Port of the PC graphical adventure, this time for the Sony PSP console. This project was part of an incubator program Sony Computer Entertainment started in Latin America. The publisher liked it very much, but unfortunately cancelled the project due to lack of funds.
+I wasn&amp;rsquo;t really involved in the gameplay itself, I spent most of my time getting out small in-house engine running on the PSP and integrating some of the SDK libraries to save time.</description>
+    </item>
+    
+    <item>
+      <title>Atmosphir</title>
+      <link>https://ivodopiviz.github.io/portfolio/atmosphir/</link>
+      <pubDate>Thu, 05 Apr 2018 20:16:26 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/atmosphir/</guid>
+      <description>Atmosphir Description: A very interesting project mix of platformer and level editor, made for the now defunct Minor Studios. The game was made with a very early version of what would eventually become Godot Engine and used Lua for scripting. Players could share their creations and challenge each map to set the fastest times.
+This project would then move onto be developed by Minor Studios itself, getting ported to Unity and expanded significantly, but I wasn&amp;rsquo;t involved anymore by that stage.</description>
+    </item>
+    
+    <item>
+      <title>Return to Mysterious Island</title>
+      <link>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</link>
+      <pubDate>Tue, 03 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</guid>
+      <description>Description: Port of the PC graphical adventure to Nintendo DS, unfortunately never released because of the publisher&amp;rsquo;s lack of funds. I worked mostly on the small custom engine that was made compatible with the original game&amp;rsquo;s Lua scripts.
+Technologies: C++
+Lua</description>
+    </item>
+    
+    <item>
+      <title>Mazes of Fate (DS)</title>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</link>
+      <pubDate>Mon, 02 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</guid>
+      <description>Description: The same first person RPG released on GBA, but ported to Nintendo DS, with the big change of being now in full 3D. This was my first serious work as a programmer. It was a difficult first project because the GBA and the DS were pretty different and the original GBA version was written with a homebrew SDK.
+Technologies: C
+Lua</description>
+    </item>
+    
+    <item>
+      <title>Mazes of Fate (GBA)</title>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</link>
+      <pubDate>Sun, 01 Apr 2018 20:12:14 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</guid>
+      <description>Mazes of Fate Description: My first project in the videogame industry. An old school first person RPG for the Nintendo Gameboy Advance. I believe it was one of the first latin american games released on a Nintendo console. I started off as a QA tester and ended up doing plenty of production work and some light scripting.
+Technologies: C
+Lua</description>
+    </item>
+    
+  </channel>
+</rss>

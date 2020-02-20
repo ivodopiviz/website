@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>console on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/console/</link>
+    <description>Recent content in console on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Apr 2018 20:11:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/tags/console/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AAA: Heroes del Ring</title>
+      <link>https://ivodopiviz.github.io/portfolio/aaa-heroes-del-ring/</link>
+      <pubDate>Sun, 15 Apr 2018 20:11:19 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/aaa-heroes-del-ring/</guid>
+      <description>AAA: Heroes del Ring Description: The PSP adaptation of a game released for Xbox 360, PS3 and Wii. I wasn&amp;rsquo;t directly involved in the development of the game itself but on the actual port of the Torque 3D engine to the PSP platform.
+It was an extremely difficult project that didn&amp;rsquo;t quite work out, but it&amp;rsquo;s to this day one of the biggest learning experiences of my professional career.
+Technologies: Torque 3D</description>
+    </item>
+    
+    <item>
+      <title>Still Life</title>
+      <link>https://ivodopiviz.github.io/portfolio/still-life/</link>
+      <pubDate>Fri, 06 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/still-life/</guid>
+      <description>Description: Port of the PC graphical adventure, this time for the Sony PSP console. This project was part of an incubator program Sony Computer Entertainment started in Latin America. The publisher liked it very much, but unfortunately cancelled the project due to lack of funds.
+I wasn&amp;rsquo;t really involved in the gameplay itself, I spent most of my time getting out small in-house engine running on the PSP and integrating some of the SDK libraries to save time.</description>
+    </item>
+    
+    <item>
+      <title>Return to Mysterious Island</title>
+      <link>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</link>
+      <pubDate>Tue, 03 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</guid>
+      <description>Description: Port of the PC graphical adventure to Nintendo DS, unfortunately never released because of the publisher&amp;rsquo;s lack of funds. I worked mostly on the small custom engine that was made compatible with the original game&amp;rsquo;s Lua scripts.
+Technologies: C++
+Lua</description>
+    </item>
+    
+    <item>
+      <title>Mazes of Fate (DS)</title>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</link>
+      <pubDate>Mon, 02 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</guid>
+      <description>Description: The same first person RPG released on GBA, but ported to Nintendo DS, with the big change of being now in full 3D. This was my first serious work as a programmer. It was a difficult first project because the GBA and the DS were pretty different and the original GBA version was written with a homebrew SDK.
+Technologies: C
+Lua</description>
+    </item>
+    
+    <item>
+      <title>Mazes of Fate (GBA)</title>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</link>
+      <pubDate>Sun, 01 Apr 2018 20:12:14 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</guid>
+      <description>Mazes of Fate Description: My first project in the videogame industry. An old school first person RPG for the Nintendo Gameboy Advance. I believe it was one of the first latin american games released on a Nintendo console. I started off as a QA tester and ended up doing plenty of production work and some light scripting.
+Technologies: C
+Lua</description>
+    </item>
+    
+  </channel>
+</rss>

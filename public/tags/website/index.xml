@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/website/</link>
+    <description>Recent content in website on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 20:17:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my website</title>
+      <link>https://ivodopiviz.github.io/post/welcome/</link>
+      <pubDate>Thu, 22 Mar 2018 20:17:53 +0000</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/post/welcome/</guid>
+      <description>And just like this, I start a new website (yet) again. I&amp;rsquo;ll try to write a little bit about my personal projects, my experiences and anything that might come to mind.
+Yes, it&amp;rsquo;s pretty barebones at the moment, but you have to start somewhere right? I&amp;rsquo;ll make sure to keep adding content regularly.
+Enjoy your stay :)</description>
+    </item>
+    
+  </channel>
+</rss>

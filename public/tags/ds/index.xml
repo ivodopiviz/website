@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ds on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/ds/</link>
+    <description>Recent content in ds on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Apr 2018 20:15:48 +0200</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/tags/ds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Return to Mysterious Island</title>
+      <link>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</link>
+      <pubDate>Tue, 03 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</guid>
+      <description>Description: Port of the PC graphical adventure to Nintendo DS, unfortunately never released because of the publisher&amp;rsquo;s lack of funds. I worked mostly on the small custom engine that was made compatible with the original game&amp;rsquo;s Lua scripts.
+Technologies: C++
+Lua</description>
+    </item>
+    
+    <item>
+      <title>Mazes of Fate (DS)</title>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</link>
+      <pubDate>Mon, 02 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</guid>
+      <description>Description: The same first person RPG released on GBA, but ported to Nintendo DS, with the big change of being now in full 3D. This was my first serious work as a programmer. It was a difficult first project because the GBA and the DS were pretty different and the original GBA version was written with a homebrew SDK.
+Technologies: C
+Lua</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kinect on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/kinect/</link>
+    <description>Recent content in kinect on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 May 2018 20:35:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/tags/kinect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sensar</title>
+      <link>https://ivodopiviz.github.io/portfolio/rehab/</link>
+      <pubDate>Tue, 15 May 2018 20:35:36 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/rehab/</guid>
+      <description>Sensar Description: This was a very interesting project for rehabilitation of patients with neuro-motor problems. It was a suite of minigames, all of them using the Kinect camera to detect gestures trained with machine learning techniques.
+The main challenge was creating a system that would give accurate detection but at the same time allow to be configured lenient enough to account for each patient capabilities.
+The system included user account support and full activity logging, intended to be shared with the medical staff.</description>
+    </item>
+    
+  </channel>
+</rss>

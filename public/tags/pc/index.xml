@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PC on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/pc/</link>
+    <description>Recent content in PC on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2020 20:15:48 +0200</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/tags/pc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Waiting for Horus</title>
+      <link>https://ivodopiviz.github.io/portfolio/waiting-for-horus/</link>
+      <pubDate>Fri, 10 Jan 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/waiting-for-horus/</guid>
+      <description>Description: I&amp;rsquo;m currently working on updating this game to more modern technologies. Originally made with Unity 4.5 and RPC networking, and I&amp;rsquo;m currently migrating it to modern versions and reworking the netcode to use Steamworks P2P and server systems.
+There&amp;rsquo;s still a lot of work to be done to adapt it to newer versions of Unity and to move it away of deprecated subsystems.
+Technology: C#
+Unity
+Steamworks</description>
+    </item>
+    
+    <item>
+      <title>Sensar</title>
+      <link>https://ivodopiviz.github.io/portfolio/rehab/</link>
+      <pubDate>Tue, 15 May 2018 20:35:36 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/rehab/</guid>
+      <description>Sensar Description: This was a very interesting project for rehabilitation of patients with neuro-motor problems. It was a suite of minigames, all of them using the Kinect camera to detect gestures trained with machine learning techniques.
+The main challenge was creating a system that would give accurate detection but at the same time allow to be configured lenient enough to account for each patient capabilities.
+The system included user account support and full activity logging, intended to be shared with the medical staff.</description>
+    </item>
+    
+    <item>
+      <title>Silence</title>
+      <link>https://ivodopiviz.github.io/portfolio/silence/</link>
+      <pubDate>Mon, 07 May 2018 18:53:57 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/silence/</guid>
+      <description>Description: Small experimental sound-based game. The basic idea is to escape an alien ship using sounds as a guide. It was successfully greenlit but not yet released.
+The most interesting part is the semi-procedural level generation system that takes partial Tiled maps and puts them together based on the desired difficulty of the level.
+It&amp;rsquo;ll be eventually released for Windows, Mac and Linux.
+Technology: Haxe
+OpenFL
+HaxeFlixel
+Steamworks</description>
+    </item>
+    
+    <item>
+      <title>Atmosphir</title>
+      <link>https://ivodopiviz.github.io/portfolio/atmosphir/</link>
+      <pubDate>Thu, 05 Apr 2018 20:16:26 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/atmosphir/</guid>
+      <description>Atmosphir Description: A very interesting project mix of platformer and level editor, made for the now defunct Minor Studios. The game was made with a very early version of what would eventually become Godot Engine and used Lua for scripting. Players could share their creations and challenge each map to set the fastest times.
+This project would then move onto be developed by Minor Studios itself, getting ported to Unity and expanded significantly, but I wasn&amp;rsquo;t involved anymore by that stage.</description>
+    </item>
+    
+  </channel>
+</rss>

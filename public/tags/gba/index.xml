@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gba on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/gba/</link>
+    <description>Recent content in gba on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2018 20:12:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/tags/gba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mazes of Fate (GBA)</title>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</link>
+      <pubDate>Sun, 01 Apr 2018 20:12:14 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</guid>
+      <description>Mazes of Fate Description: My first project in the videogame industry. An old school first person RPG for the Nintendo Gameboy Advance. I believe it was one of the first latin american games released on a Nintendo console. I started off as a QA tester and ended up doing plenty of production work and some light scripting.
+Technologies: C
+Lua</description>
+    </item>
+    
+  </channel>
+</rss>

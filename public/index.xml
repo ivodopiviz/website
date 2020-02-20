@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/</link>
+    <description>Recent content on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2020 20:15:48 +0200</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Godot</title>
+      <link>https://ivodopiviz.github.io/project/godot/</link>
+      <pubDate>Thu, 22 Mar 2018 20:18:44 +0000</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/project/godot/</guid>
+      <description>I&amp;rsquo;ve been doing quite a bit of general bugfixing in Godot lately. I&amp;rsquo;ve worked with the engine in one way or another for quite a few years now and contributing to open source projects is always very rewarding.</description>
+    </item>
+    
+    <item>
+      <title>Octo</title>
+      <link>https://ivodopiviz.github.io/project/octo/</link>
+      <pubDate>Thu, 22 Mar 2018 22:50:12 +0000</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/project/octo/</guid>
+      <description>I wrote Octo to teach myself emulator programming. I&amp;rsquo;m not very sure it was very successful really, it&amp;rsquo;s and extremely simple system and very, very easy to emulate.</description>
+    </item>
+    
+    <item>
+      <title>Unity Voxel Example</title>
+      <link>https://ivodopiviz.github.io/project/unity-voxel-example/</link>
+      <pubDate>Tue, 08 May 2018 19:41:45 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/project/unity-voxel-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waiting for Horus</title>
+      <link>https://ivodopiviz.github.io/portfolio/waiting-for-horus/</link>
+      <pubDate>Fri, 10 Jan 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/waiting-for-horus/</guid>
+      <description>Description: I&amp;rsquo;m currently working on updating this game to more modern technologies. Originally made with Unity 4.5 and RPC networking, and I&amp;rsquo;m currently migrating it to modern versions and reworking the netcode to use Steamworks P2P and server systems.
+There&amp;rsquo;s still a lot of work to be done to adapt it to newer versions of Unity and to move it away of deprecated subsystems.
+Technology: C#
+Unity
+Steamworks</description>
+    </item>
+    
+    <item>
+      <title>Sensar</title>
+      <link>https://ivodopiviz.github.io/portfolio/rehab/</link>
+      <pubDate>Tue, 15 May 2018 20:35:36 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/rehab/</guid>
+      <description>Sensar Description: This was a very interesting project for rehabilitation of patients with neuro-motor problems. It was a suite of minigames, all of them using the Kinect camera to detect gestures trained with machine learning techniques.
+The main challenge was creating a system that would give accurate detection but at the same time allow to be configured lenient enough to account for each patient capabilities.
+The system included user account support and full activity logging, intended to be shared with the medical staff.</description>
+    </item>
+    
+    <item>
+      <title>AR Viewer</title>
+      <link>https://ivodopiviz.github.io/portfolio/ar-viewer/</link>
+      <pubDate>Tue, 08 May 2018 15:48:31 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/ar-viewer/</guid>
+      <description>AR Viewer Description: This was an interesting augmented reality project that, unfortunately, was never released. The basic idea was that cable technicians usually have trouble identifying what is what when dealing with crowded equipment and this project was aimed to provide a clean and advanced solution.
+Several augmented reality &amp;ldquo;data layers&amp;rdquo; would give the technician information about the device itself, about each customer and real time data of the device performance and issues.</description>
+    </item>
+    
+    <item>
+      <title>Silence</title>
+      <link>https://ivodopiviz.github.io/portfolio/silence/</link>
+      <pubDate>Mon, 07 May 2018 18:53:57 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/silence/</guid>
+      <description>Description: Small experimental sound-based game. The basic idea is to escape an alien ship using sounds as a guide. It was successfully greenlit but not yet released.
+The most interesting part is the semi-procedural level generation system that takes partial Tiled maps and puts them together based on the desired difficulty of the level.
+It&amp;rsquo;ll be eventually released for Windows, Mac and Linux.
+Technology: Haxe
+OpenFL
+HaxeFlixel
+Steamworks</description>
+    </item>
+    
+    <item>
+      <title>Ben 10: Code Red</title>
+      <link>https://ivodopiviz.github.io/portfolio/ben-10-code-red/</link>
+      <pubDate>Sun, 06 May 2018 19:17:57 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/ben-10-code-red/</guid>
+      <description>Description: Pretty standard web tower defense game developed for Cartoon Network latin america. Like most of CN&amp;rsquo;s web games, we had fairly strict size and performance limitations to hit. You can still play it online.
+Technologies: Haxe
+HaxeFlixel</description>
+    </item>
+    
+    <item>
+      <title>Adventure Time: Romance on Ice</title>
+      <link>https://ivodopiviz.github.io/portfolio/adventure-time-romance-on-ice/</link>
+      <pubDate>Sat, 05 May 2018 19:09:32 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/adventure-time-romance-on-ice/</guid>
+      <description>Description: Heavily inspired by Solipskier, this game was made for the latin american branch of Cartoon Network, later released all around the world. You can still play it if you want.
+Even though it was already being phased out, the game had to be coded in Flash and compatible with older versions of the Flash Player. There were also pretty strict performance and size limitations that had to be taken into account.</description>
+    </item>
+    
+    <item>
+      <title>AAA: Heroes del Ring</title>
+      <link>https://ivodopiviz.github.io/portfolio/aaa-heroes-del-ring/</link>
+      <pubDate>Sun, 15 Apr 2018 20:11:19 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/aaa-heroes-del-ring/</guid>
+      <description>AAA: Heroes del Ring Description: The PSP adaptation of a game released for Xbox 360, PS3 and Wii. I wasn&amp;rsquo;t directly involved in the development of the game itself but on the actual port of the Torque 3D engine to the PSP platform.
+It was an extremely difficult project that didn&amp;rsquo;t quite work out, but it&amp;rsquo;s to this day one of the biggest learning experiences of my professional career.
+Technologies: Torque 3D</description>
+    </item>
+    
+    <item>
+      <title>Still Life</title>
+      <link>https://ivodopiviz.github.io/portfolio/still-life/</link>
+      <pubDate>Fri, 06 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/still-life/</guid>
+      <description>Description: Port of the PC graphical adventure, this time for the Sony PSP console. This project was part of an incubator program Sony Computer Entertainment started in Latin America. The publisher liked it very much, but unfortunately cancelled the project due to lack of funds.
+I wasn&amp;rsquo;t really involved in the gameplay itself, I spent most of my time getting out small in-house engine running on the PSP and integrating some of the SDK libraries to save time.</description>
+    </item>
+    
+    <item>
+      <title>Atmosphir</title>
+      <link>https://ivodopiviz.github.io/portfolio/atmosphir/</link>
+      <pubDate>Thu, 05 Apr 2018 20:16:26 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/atmosphir/</guid>
+      <description>Atmosphir Description: A very interesting project mix of platformer and level editor, made for the now defunct Minor Studios. The game was made with a very early version of what would eventually become Godot Engine and used Lua for scripting. Players could share their creations and challenge each map to set the fastest times.
+This project would then move onto be developed by Minor Studios itself, getting ported to Unity and expanded significantly, but I wasn&amp;rsquo;t involved anymore by that stage.</description>
+    </item>
+    
+    <item>
+      <title>Return to Mysterious Island</title>
+      <link>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</link>
+      <pubDate>Tue, 03 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</guid>
+      <description>Description: Port of the PC graphical adventure to Nintendo DS, unfortunately never released because of the publisher&amp;rsquo;s lack of funds. I worked mostly on the small custom engine that was made compatible with the original game&amp;rsquo;s Lua scripts.
+Technologies: C++
+Lua</description>
+    </item>
+    
+    <item>
+      <title>Mazes of Fate (DS)</title>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</link>
+      <pubDate>Mon, 02 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</guid>
+      <description>Description: The same first person RPG released on GBA, but ported to Nintendo DS, with the big change of being now in full 3D. This was my first serious work as a programmer. It was a difficult first project because the GBA and the DS were pretty different and the original GBA version was written with a homebrew SDK.
+Technologies: C
+Lua</description>
+    </item>
+    
+    <item>
+      <title>Mazes of Fate (GBA)</title>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</link>
+      <pubDate>Sun, 01 Apr 2018 20:12:14 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</guid>
+      <description>Mazes of Fate Description: My first project in the videogame industry. An old school first person RPG for the Nintendo Gameboy Advance. I believe it was one of the first latin american games released on a Nintendo console. I started off as a QA tester and ended up doing plenty of production work and some light scripting.
+Technologies: C
+Lua</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my website</title>
+      <link>https://ivodopiviz.github.io/post/welcome/</link>
+      <pubDate>Thu, 22 Mar 2018 20:17:53 +0000</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/post/welcome/</guid>
+      <description>And just like this, I start a new website (yet) again. I&amp;rsquo;ll try to write a little bit about my personal projects, my experiences and anything that might come to mind.
+Yes, it&amp;rsquo;s pretty barebones at the moment, but you have to start somewhere right? I&amp;rsquo;ll make sure to keep adding content regularly.
+Enjoy your stay :)</description>
+    </item>
+    
+  </channel>
+</rss>

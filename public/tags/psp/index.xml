@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>psp on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/psp/</link>
+    <description>Recent content in psp on Iván Makes Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Apr 2018 20:11:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://ivodopiviz.github.io/tags/psp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AAA: Heroes del Ring</title>
+      <link>https://ivodopiviz.github.io/portfolio/aaa-heroes-del-ring/</link>
+      <pubDate>Sun, 15 Apr 2018 20:11:19 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/aaa-heroes-del-ring/</guid>
+      <description>AAA: Heroes del Ring Description: The PSP adaptation of a game released for Xbox 360, PS3 and Wii. I wasn&amp;rsquo;t directly involved in the development of the game itself but on the actual port of the Torque 3D engine to the PSP platform.
+It was an extremely difficult project that didn&amp;rsquo;t quite work out, but it&amp;rsquo;s to this day one of the biggest learning experiences of my professional career.
+Technologies: Torque 3D</description>
+    </item>
+    
+    <item>
+      <title>Still Life</title>
+      <link>https://ivodopiviz.github.io/portfolio/still-life/</link>
+      <pubDate>Fri, 06 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/still-life/</guid>
+      <description>Description: Port of the PC graphical adventure, this time for the Sony PSP console. This project was part of an incubator program Sony Computer Entertainment started in Latin America. The publisher liked it very much, but unfortunately cancelled the project due to lack of funds.
+I wasn&amp;rsquo;t really involved in the gameplay itself, I spent most of my time getting out small in-house engine running on the PSP and integrating some of the SDK libraries to save time.</description>
+    </item>
+    
+  </channel>
+</rss>
