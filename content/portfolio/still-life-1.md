@@ -10,7 +10,7 @@ title = "Waiting for Horus"
 
 I'm currently working on updating this game to more modern technologies. Originally made with Unity 4.5 and RPC networking, and I'm currently migrating it to modern versions and reworking the netcode to use Steamworks P2P and server systems.
 
-There's still a lot of work to be done to adapt it to newer rendering technologies.
+There's still a lot of work to be done to adapt it to newer versions of Unity and to move it away of deprecated subsystems.
 
 #### Technology:
 
