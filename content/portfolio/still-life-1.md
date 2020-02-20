@@ -1,6 +1,5 @@
 +++
 date = "2020-01-10T20:15:48+02:00"
-draft = true
 tags = ["c#", "unity", "pc", "steamworks"]
 title = "Waiting for Horus"
 
